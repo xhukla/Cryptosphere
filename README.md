@@ -1,3 +1,12 @@
+# Live
+
+https://cryptosphere-cryptocurrency-app.netlify.app/
+
+# Introduction
+
+This is cryptosphere a cryptocurrency application which allows user to see the changes in the crypto, and gives a robust knowledge about the crypto its types and news about them. user can also see the total market and value price of a specific cryptocurrency ,one can also see the exchanges types through which digital currencies are exchanged.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
